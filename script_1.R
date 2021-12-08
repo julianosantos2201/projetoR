@@ -15,3 +15,5 @@ select()
 #5a versão - editada no RStudio desta vez
 library(dplyr)
 
+#6a versão - ediatada no Git
+library(tidyverse)
