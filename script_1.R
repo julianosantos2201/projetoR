@@ -8,3 +8,6 @@ rename()
 join()
 select()
 # 3a versão a partir daqui
+
+# 4a versão - edição diretamente no Git
+# comments...
