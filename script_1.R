@@ -11,3 +11,7 @@ select()
 
 # 4a versão - edição diretamente no Git
 # comments...
+
+#5a versão - editada no RStudio desta vez
+library(dplyr)
+
